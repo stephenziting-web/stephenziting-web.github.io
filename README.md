@@ -1,1 +1,1 @@
-# stephenziting-web.github.io
+$$f(x)=\sin x$$
